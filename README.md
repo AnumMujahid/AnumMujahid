@@ -1,7 +1,5 @@
 ### Hi there 👋 It's Anum Mujahid
 
-  🔭 I’m currently working on MERN stack
-  🌱 I’m currently doing MERN projects in 100 days of code challenge
 <!--
 **AnumMujahid/AnumMujahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
