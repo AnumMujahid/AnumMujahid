@@ -61,7 +61,10 @@ Software Engineer | Graduated from NUST | Full Stack Developer | Workaholic | Pa
 ### GitHub Statistics
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnumMujahid&layout=compact&hide=html" alt="Anum Mujahid most used languages" height="195"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AnumMujahid&show_icons=true" alt="Anum Mujahid github stats" />
+
+<br /><br /><br /><br /><br /><br /><br /><br />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AnumMujahid&show_icons=true" alt="Anum Mujahid github stats" height="195"/>
 
 <br /><br /><br /><br /><br /><br /><br />
 ----
