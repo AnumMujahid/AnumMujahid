@@ -21,6 +21,12 @@ Software Engineer | Graduated from NUST | Full Stack Developer | Workaholic | De
 
 <br />
 
+### Achievements
+
+- 🎖️ Final Year Project nominated for demonstration for Rector's Gold Medal.
+
+<br />
+
 ### How to Reach Me
 
 - 📫 Email me at **anum.mujahid.se@gmail.com**
@@ -64,12 +70,7 @@ Software Engineer | Graduated from NUST | Full Stack Developer | Workaholic | De
 <br /><br /><br /><br /><br /><br /><br /><br />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AnumMujahid&show_icons=true" alt="Anum Mujahid github stats" />
 
-<!--
-<p align="center">
-<a href="" target="blank"><img align="center" src="" alt="" height="30" width="30" /></a>
-</p>
--->
-<br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
 ----
 
 Last Edited on: 24/07/2021
