@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anum Mujahid</h1>
 
-<!-- <br/> -->
+<br/>
 
 <!-- <p align="center">
 Software Engineer | Graduated from NUST | Full Stack Developer | Workaholic | Passionate to contribute to cool projects | Daughter | Crazy Sister | Foodie | Pasta Lover | No Coffee | Love to Code | Mentor of an amazing <a href="https://github.com/Fatima-Mujahid">Software Engineer</a> | Painter | Lots of Drama | Big Dreams | Sometimes INTJ / Sometimes INFJ xD</p>  -->
+
+<p align="center">
+Software Engineer | Graduated from NUST | Full Stack Developer | Workaholic | Dedicated | Goal Oriented | Passionate to contribute to cool projects | Foodie | Pasta Lover | No Coffee | Love to Code | Mentor of an amazing <a href="https://github.com/Fatima-Mujahid">Software Engineer</a> | Painter | Big Dreams</p> 
 
 <br />
 
@@ -60,14 +63,16 @@ Software Engineer | Graduated from NUST | Full Stack Developer | Workaholic | Pa
 
 ### GitHub Statistics
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnumMujahid&layout=compact&hide=html" alt="Anum Mujahid most used languages" height="195"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnumMujahid&layout=compact&hide=html" alt="Anum Mujahid most used languages" />
+<br /><br /><br /><br /><br /><br /><br /><br />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AnumMujahid&show_icons=true" alt="Anum Mujahid github stats" />
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AnumMujahid&show_icons=true" alt="Anum Mujahid github stats"/>
-
+<!--
+<p align="center">
+<a href="" target="blank"><img align="center" src="" alt="" height="30" width="30" /></a>
+</p>
+-->
 <br /><br /><br /><br /><br /><br /><br />
-
 ----
 
-Last Edited on: 24/07/2022
+Last Edited on: 24/07/2021
