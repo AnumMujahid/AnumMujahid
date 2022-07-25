@@ -3,7 +3,7 @@
 <br/>
 
 <p align="center">
-Software Engineer | Graduated from NUST | Full Stack Developer | Workaholic | Dedicated | Goal Oriented | Passionate to contribute to cool projects | Foodie | Pasta Lover | No Coffee | Love to Code | Mentor of an amazing <a href="https://github.com/Fatima-Mujahid">Software Engineer</a> | Painter | Big Dreams</p> 
+Software Engineer | Graduated from NUST | Full Stack Developer | Workaholic | Dedicated | Goal Oriented | Passionate to contribute to cool projects | Daughter | Crazy Sister | Foodie | Pasta Lover | No Coffee | Love to Code | Mentor of an amazing <a href="https://github.com/Fatima-Mujahid">Software Engineer</a> | Introvert | Painter | Lots of Drama | Big Dreams</p> 
 
 <br />
 
