@@ -9,9 +9,9 @@ Software Engineer | Graduated from NUST | Web Developer | Workaholic | Dedicated
 
 ### Current Status
 
-- 💻 Practicing **Coding Challenges** with DSA.
-- 🔍 Applying to **Jobs** and **Freelance Projects**.
-- 📚 Learning **NextJS** and **TypeScript**.
+- ✏️ Practicing **Coding Challenges** with DSA.
+- 💻 Creating **App**.
+- 📚 Learning **Flutter** and *Dart*.
 
 <br />
 
@@ -30,8 +30,8 @@ Software Engineer | Graduated from NUST | Web Developer | Workaholic | Dedicated
 ### How to Reach Me
 
 - 📫 Email me at **anum.mujahid.se@gmail.com**
-- 🖼️ Send a DM on [Instagram](https://www.linkedin.com/in/anum-mujahid-full-stack-developer/)
-- ⭐ Connect on [LinkedIn](https://www.instagram.com/anum_mujahid/)
+- ⭐ Send a DM on [LinkedIn](https://www.linkedin.com/in/anum-mujahid-full-stack-developer/)
+- 🖼️ Connect on [Instagram](https://www.instagram.com/anum_mujahid/)
 
 <br />
 
