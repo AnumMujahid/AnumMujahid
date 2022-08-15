@@ -7,6 +7,7 @@ Software Engineer | Graduated from NUST | Web Developer | Workaholic | Dedicated
 
 <br />
 
+<!---
 ### Current Status
 
 - ✏️ Practicing **Coding Challenges** with DSA.
@@ -14,6 +15,7 @@ Software Engineer | Graduated from NUST | Web Developer | Workaholic | Dedicated
 - 📚 Learning **Flutter** and *Dart*.
 
 <br />
+-->
 
 ### My Projects
 
@@ -73,4 +75,4 @@ Software Engineer | Graduated from NUST | Web Developer | Workaholic | Dedicated
 <br /><br /><br /><br /><br /><br />
 ----
 
-Last Edited on: 25/07/2021
+Last Edited on: 15/08/2021
