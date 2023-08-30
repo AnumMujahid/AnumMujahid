@@ -59,10 +59,8 @@ Software Engineer | Graduated from NUST | Web Developer | Workaholic | Dedicated
 ### GitHub Statistics
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnumMujahid&layout=compact&hide=html" alt="Anum Mujahid most used languages" />
-<br /><br /><br /><br /><br /><br /><br /><br />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AnumMujahid&show_icons=true" alt="Anum Mujahid github stats" />
 
 <br /><br /><br /><br /><br /><br />
 ----
 
-Last Edited on: 11/12/2022
+Last Edited on: 30/08/2023
